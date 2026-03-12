@@ -15,7 +15,7 @@ Download [Prism Launcher](https://prismlauncher.org/download/windows/) (Alternat
 
 Download [Java 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) (This specific version and up Required!!)
 
-Download the [Modpack Here]()
+Download the [Modpack Here](https://github.com/Ranoreal/CobblemonMythos/releases/tag/1)
 
 
 ![Sprigatito](https://preview.redd.it/weed-cat-sprigatito-v0-4km9x8f03p591.jpg?width=480&format=pjpg&auto=webp&s=2c2e0cb239f7456389168918a16a94631f671e9d)
