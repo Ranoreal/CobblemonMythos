@@ -2,7 +2,7 @@
 The new and improved Cobblemon Server again....
 
 
-Server IP: shewlzy.playit.plus
+Server IP: rooms-contains.gl.joinmc.link
   
 
 Some Useful links:
