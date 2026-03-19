@@ -2,7 +2,7 @@
 The new and improved Cobblemon Server again....
 
 
-Server IP: rooms-contains.gl.joinmc.link
+Server IP: 134.185.81.37:25565 
   
 
 Some Useful links:
